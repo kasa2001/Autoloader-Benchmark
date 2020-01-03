@@ -10,7 +10,7 @@ for f in {1..100}
 echo BlackFramework Autoloader
 for f in {1..100}
 	do 
-		php index.php
+		php index2.php
 		echo "$f"
 	done
 php count.php
