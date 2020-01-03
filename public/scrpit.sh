@@ -1,13 +1,13 @@
 #!/bin/bash
 
-echo Composer Autoloader
+echo BlackFramework Autoloader
 for f in {1..100}
 	do 
 		php index.php
 		echo "$f"
 	done
 
-echo BlackFramework Autoloader
+echo Composer Autoloader
 for f in {1..100}
 	do 
 		php index2.php

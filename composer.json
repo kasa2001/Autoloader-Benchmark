@@ -3,8 +3,7 @@
 	"license": "proprietary",
 	"require": {
 		"php": "7.*",
-		"blackframework/core": "1.*",
-		"blackframework/routing": "1.*"
+		"blackframework/core": "1.*"
 	},
 
 	"autoload": {
